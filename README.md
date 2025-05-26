@@ -51,5 +51,5 @@ In DeFi, different protocols offer varying returns for the same asset (e.g., USD
 - Performance fee and incentive structure for strategists.
 - DAO governance model for protocol management.
 
-## Contract address: 0x290dd869d20d2e51f0c86d872e7b563b5d7fe1101cb57c244599aa58d4281833
-![image](https://github.com/user-attachments/assets/72633b3b-02ad-4608-bad8-ee49ae412d22)
+## Contract address: 0x6ecd0ad6c8952400a2d47b3aae4e2c6a26613b01
+![image](https://github.com/user-attachments/assets/83c989c8-5073-4e21-97b7-b0070c5935be)
